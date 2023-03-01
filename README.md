@@ -34,15 +34,13 @@ I am Resoul Giri, a self-taught web developer from Canada with passion to create
 </p>
 
 ## My Projects
-<div style="display:flex;">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Calculator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Weather-App&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</div>
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Calculator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/mehargiri/React-Calculator)
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Weather-App&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/mehargiri/React-Weather-App)
 
-<div style="display:flex;">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Real-Estate-Website-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Assembly-Line-Simulation&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</div>
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Real-Estate-Website-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/mehargiri/Real-Estate-Website-Clone)
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Assembly-Line-Simulation&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/mehargiri/Assembly-Line-Simulation)
+
+
 
 
 ## Contact Me
