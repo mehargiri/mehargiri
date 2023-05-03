@@ -53,6 +53,12 @@ I am Resoul Giri, a self-taught web developer from Canada with passion to create
   </a>
 </div>
 
+<div style="display:flex;">
+  <a href="https://github.com/mehargiri/Start-Challenge-Prototype">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Start-Challenge-Prototype&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
+</div>
+
 
 ## Contact Me
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:resoulgiri1@gmail.com)
