@@ -35,19 +35,17 @@ I am Resoul Giri, a self-taught web developer from Canada with a passion for cre
 
 ## My Projects
 <div style="display:flex;">
+    <a href="https://github.com/mehargiri/easybank-landing-page" target="_blank">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=easybank-landing-page&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
     <a href="https://github.com/mehargiri/Start-Challenge-Prototype" target="_blank">
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Start-Challenge-Prototype&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  </a>
-
-  
-  <a href="https://github.com/mehargiri/React-Weather-App" target="_blank">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Weather-App&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   </a>
 </div>
 
 <div style="display:flex;">
-  <a href="https://github.com/mehargiri/Real-Estate-Website-Clone" target="_blank">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Real-Estate-Website-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/mehargiri/React-Weather-App" target="_blank">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Weather-App&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   </a>
     <a href="https://github.com/mehargiri/React-Calculator" target="_blank">
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Calculator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -55,6 +53,9 @@ I am Resoul Giri, a self-taught web developer from Canada with a passion for cre
 </div>
 
 <div style="display:flex;">
+    <a href="https://github.com/mehargiri/Real-Estate-Website-Clone" target="_blank">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Real-Estate-Website-Clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </a>
   <a href="https://github.com/mehargiri/Assembly-Line-Simulation" target="_blank">
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=Assembly-Line-Simulation&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   </a>
