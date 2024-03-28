@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my page! 
 
 ## About Me
-I am Resoul Giri, a self-taught web developer from Canada with a passion for creating responsive, mobile-first web apps.
+A self-taught web developer from with a passion for creating responsive, mobile-first web apps.
 
 ## Programming Languages
 
