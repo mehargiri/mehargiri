@@ -1,6 +1,7 @@
-### Hi there 👋 Welcome to my page! 
+### Hi there 👋 Welcome to my page!
 
 ## About Me
+
 A self-taught web developer from with a passion for creating responsive, mobile-first web apps.
 
 ## Programming Languages
@@ -32,6 +33,7 @@ A self-taught web developer from with a passion for creating responsive, mobile-
 </p>
 
 ## Tools
+
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -46,21 +48,22 @@ A self-taught web developer from with a passion for creating responsive, mobile-
 </p>
 
 ## My Projects
+
 <div style="display:flex;">
     <a href="https://github.com/mehargiri/social-media-app-pern" target="_blank">
-      <img width="282" src="./profile/mehargiri-social-media-app-pern" alt="Social-Media-App-Pern-Card">
+      <img width="282" src="./profile/mehargiri-social-media-app-pern.svg" alt="Social-Media-App-Pern-Card">
     </a>
     <a href="https://github.com/mehargiri/easybank-landing-page" target="_blank">
-      <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=easybank-landing-page&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Easybank-Landing-Page-Card">
+      <img width="282" src="./profile/mehargiri-easybank-landing-page.svg" alt="Easybank-Landing-Page-Card">
     </a>
 </div>
 
 <div style="display:flex;">
       <a href="https://github.com/mehargiri/Start-Challenge-Prototype" target="_blank">
-    <img width="282" src="./profile/mehargiri-Start-Challenge-Prototype" alt="Start-Challenge-Prototype-Card">
+    <img width="282" src="./profile/mehargiri-Start-Challenge-Prototype.svg" alt="Start-Challenge-Prototype-Card">
   </a>
     <a href="https://github.com/mehargiri/React-Weather-App" target="_blank">
-    <img width="282" src="./profile/mehargiri-React-Weather-App" alt="React-Weather-App-Card">
+    <img width="282" src="./profile/mehargiri-React-Weather-App.svg" alt="React-Weather-App-Card">
   </a>
 <!--     <a href="https://github.com/mehargiri/React-Calculator" target="_blank">
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=mehargiri&repo=React-Calculator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -70,4 +73,3 @@ A self-taught web developer from with a passion for creating responsive, mobile-
 <!-- ## Contact Me
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:resoulgiri1@gmail.com)
  -->
-
