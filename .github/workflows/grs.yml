@@ -1,0 +1,56 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: '05 18 * * 3' # Runs once at 6:05 PM every Wednesday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate Social Media App Pern pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=social-media-app-pern&theme=calm&hide_border=true&show_icons=true
+          path: profile/${{github.repository_owner}}-social-media-app-pern.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Easybank Landing Page pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=easybank-landing-page&theme=calm&hide_border=true&show_icons=true
+          path: profile/${{github.repository_owner}}-easybank-landing-page.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Start Challenge Prototype pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Start-Challenge-Prototype&theme=calm&hide_border=true&show_icons=true
+          path: profile/${{github.repository_owner}}-Start-Challenge-Prototype.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate React Weather App pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=React-Weather-App&theme=calm&hide_border=true&show_icons=true
+          path: profile/${{github.repository_owner}}-React-Weather-App.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
